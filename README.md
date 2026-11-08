@@ -42,7 +42,7 @@ appearing in both train and test.
 
 ## c. GitHub repository link
 
-https://github.com/bits-hrishik18/online-shopper-purchase-ml
+https://github.com/hrishik18/online-shopper-purchase-ml
 
 Live Streamlit app: <ADD YOUR STREAMLIT COMMUNITY CLOUD LINK HERE>
 
